@@ -1,4 +1,4 @@
-
+//Modifica apportata
 public class Elettore extends User{
 	private int nseggio;
 	
